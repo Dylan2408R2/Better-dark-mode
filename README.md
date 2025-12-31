@@ -1,7 +1,7 @@
 # Better Dark Mode 🌙
 
 <p align="center">
-  <img src="icon.png" width="128" alt="Better Dark Mode Logo">
+  <img src="better-dark-mode-ext/icon.png" width="128" alt="Better Dark Mode Logo">
 </p>
 
 ### Como instalar la extensión?
@@ -14,7 +14,7 @@
 6. Haz clic en **Administrar extensiones**.
 7. Activa el **Modo de desarrollador** (el interruptor arriba a la derecha).
 8. Haz clic en el botón **Cargar extensión sin empaquetar**.
-9. Selecciona la carpeta que acabas de extraer y ¡listo!, ahora funciona.
+9. Selecciona la carpeta llamada `better-dark-mode-ext` y ¡listo!, ahora funciona.
 
 ---
 
